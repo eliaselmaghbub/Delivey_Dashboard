@@ -1,0 +1,14 @@
+@import "./spacing";
+@import "./form";
+
+html {
+  body {
+    .menu-collapsed {
+      .header-navbar {
+        &.navbar-static-top {
+          inset-inline-start: 74px !important;
+        }
+      }
+    }
+  }
+}

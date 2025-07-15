@@ -1,0 +1,186 @@
+TODO: الموظفين
+TODO: الهيكلية الادارية
+TODO: تصنيف الفروع
+TODO: الأختام الإلكترونية
+TODO: الصفة الوظيفية
+
+
+
+التصنيفات
+   Category
+   Category_View
+   Category_Create
+   Category_Edit
+   Category_Delete
+الموردين
+   Supplier
+   Supplier_View
+   Supplier_Create
+   Supplier_Edit
+   Supplier_Delete
+طلبات الاصناف
+   MaterialRequest
+   MaterialRequest_View
+   MaterialRequest_Create
+   MaterialRequest_Edit
+   MaterialRequest_Delete
+   MaterialRequest_ApprovalRequest
+   MaterialRequest_AmendRequest
+   MaterialRequest_Suspend
+   MaterialRequest_Approved
+   MaterialRequest_Release
+   MaterialRequest_Reject
+فواتير الشراء
+   PurchaseInvoice
+   PurchaseInvoice_View
+   PurchaseInvoice_Create
+   PurchaseInvoice_Edit
+   PurchaseInvoice_Delete
+   PurchaseInvoice_Confirm
+   PurchaseInvoice_Unconfirm
+جرد أول المدة
+   InitialStocktake
+   InitialStocktake_View
+   InitialStocktake_Create
+   InitialStocktake_Edit
+   InitialStocktake_Delete
+   InitialStocktake_Confirm
+   InitialStocktake_Unconfirm
+المخازن
+   Store
+   Store_View
+   Store_Create
+   Store_Edit
+   Store_Delete
+البحث في المخازن
+   StoredItem_View
+الوحدات
+   Unit
+   Unit_View
+   Unit_Create
+   Unit_Edit
+   Unit_Delete
+اللجان
+   Committee
+   Committee_View
+   Committee_Create
+   Committee_Edit
+   Committee_Delete
+الوحدات التنظيمية لطلبات الأصناف
+   ListOfDepartments
+   ListOfDepartments_View
+   ListOfDepartments_Create
+   ListOfDepartments_Edit
+   ListOfDepartments_Delete
+الاصناف
+   Item
+   Item_View
+   Item_Create
+   Item_Edit
+   Item_Delete
+الجرد
+   Stocktake
+   Stocktake_View
+   Stocktake_Create
+   Stocktake_Edit
+   Stocktake_Delete
+   Stocktake_Confirm
+   Stocktake_Unconfirm
+إرجاع أصناف الطلب
+   ReturnReleaseOrder
+   ReturnReleaseOrder_View
+   ReturnReleaseOrder_Create
+   ReturnReleaseOrder_Edit
+   ReturnReleaseOrder_Delete
+   ReturnReleaseOrder_Confirm
+   ReturnReleaseOrder_Unconfirm
+استرجاع المصروفات المباشرة
+   DirectReleaseOrdersReturn
+   DirectReleaseOrdersReturn_View
+   DirectReleaseOrdersReturn_Create
+   DirectReleaseOrdersReturn_Edit
+   DirectReleaseOrdersReturn_Delete
+   DirectReleaseOrdersReturn_Confirm
+   DirectReleaseOrdersReturn_Unconfirm
+طلب عرض
+   OfferRequest
+   OfferRequest_View
+   OfferRequest_Create
+   OfferRequest_Edit
+   OfferRequest_Delete
+أمر التكليف
+   CommissioningOrder
+   CommissioningOrder_View
+   CommissioningOrder_Create
+   CommissioningOrder_Edit
+   CommissioningOrder_Delete
+   CommissioningOrder_Confirm
+   CommissioningOrder_Unconfirm
+فواتير الاسترجاع
+   PurchaseReturn
+   PurchaseReturn_View
+   PurchaseReturn_Create
+   PurchaseReturn_Edit
+   PurchaseReturn_Delete
+   PurchaseReturn_Confirm
+   PurchaseReturn_Unconfirm
+السنة المالية
+   FiscalYear
+   FiscalYear_View
+   FiscalYear_Create
+   FiscalYear_Edit
+   FiscalYear_Delete
+   FiscalYear_Close
+   FiscalYear_Reopen
+صرف إلى مخزن
+   Transfer
+   Transfer_View
+   Transfer_Create
+   Transfer_Edit
+   Transfer_Delete
+   Transfer_Confirm
+   Transfer_ConfirmForm
+   Transfer_Unconfirm
+أوامر الصرف
+   ReleaseOrder
+   ReleaseOrder_View
+   ReleaseOrder_Create
+   ReleaseOrder_Edit
+   ReleaseOrder_Delete
+   ReleaseOrder_Confirm
+   ReleaseOrder_Unconfirm
+الصرف المباشر
+   DirectReleaseOrder
+   DirectReleaseOrder_View
+   DirectReleaseOrder_Create
+   DirectReleaseOrder_Edit
+   DirectReleaseOrder_Delete
+   DirectReleaseOrder_Confirm
+   DirectReleaseOrder_Unconfirm
+المشتريات
+   PurchaseOrder
+   PurchaseOrder_View
+   PurchaseOrder_Create
+   PurchaseOrder_Edit
+   PurchaseOrder_Delete
+   PurchaseOrder_UpdateOffer
+   PurchaseOrder_Close
+   PurchaseOrder_Reopen
+   PurchaseOrder_Confirm
+   PurchaseOrder_Unconfirm
+أذونات الاستلام
+   DeliveryNote
+   DeliveryNote_View
+   DeliveryNote_Create
+   DeliveryNote_Edit
+   DeliveryNote_Delete
+   DeliveryNote_Confirm
+   DeliveryNote_Unconfirm
+العروض المستلمة
+   ArchiveSupplierOffers
+   ArchiveSupplierOffers_View
+   ArchiveSupplierOffers_Create
+   ArchiveSupplierOffers_Edit
+   ArchiveSupplierOffers_Delete
+
+
